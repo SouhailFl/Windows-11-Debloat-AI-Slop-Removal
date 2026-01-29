@@ -62,3 +62,5 @@ No sketchy scripts.
 No “trust me bro” optimizations.
 
 Everything is source-checked, tested, and monitored—cutting AI slop and bloat without breaking Windows.
+
+### DON'T FORGET TO RUN IT AS ADMINISTRATOR !!!
